@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-28 22:27 CST）
+## API 状态（最近更新：2026-03-28 23:25 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：69
-- 失败 API 数量：11
+- 成功 API 数量：70
+- 失败 API 数量：10
 - 平均可用率：86.7%
 - 完美可用率（100%）：42 个
 - 高可用率（80%-99%）：28 个
@@ -211,7 +211,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞大地资源 | https://dadiapi.com/feifei2 | 99 | 1 | 99.0% | 0 |
