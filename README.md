@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-13 01:54 CST）
+## API 状态（最近更新：2026-07-13 02:55 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：69
@@ -228,9 +228,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 87 | 13 | 87.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
-| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 62 | 38 | 62.0% | 20 |
-| ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 59 | 41 | 59.0% | 0 |
-| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 11 | 89 | 11.0% | 73 |
+| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 61 | 39 | 61.0% | 21 |
+| ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 60 | 40 | 60.0% | 0 |
+| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 11 | 89 | 11.0% | 74 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
