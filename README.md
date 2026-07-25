@@ -144,16 +144,16 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-26 05:47 CST）
+## API 状态（最近更新：2026-07-26 06:46 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：66
 - 失败 API 数量：14
-- 平均可用率：83.8%
+- 平均可用率：83.7%
 - 完美可用率（100%）：51 个
 - 高可用率（80%-99%）：15 个
-- 中等可用率（50%-79%）：2 个
-- 低可用率（<50%）：12 个
+- 中等可用率（50%-79%）：1 个
+- 低可用率（<50%）：13 个
 
 <div style="font-size: 11px;">
 
@@ -223,11 +223,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞-奥斯卡- | https://aosikazy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 92 | 8 | 92.0% | 8 |
+| 🚨 | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 91 | 9 | 91.0% | 9 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
-| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 50 | 50 | 50.0% | 50 |
+| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 49 | 51 | 49.0% | 51 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
