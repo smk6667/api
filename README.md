@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-17 06:13 CST）
+## API 状态（最近更新：2026-08-17 07:13 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：65
-- 失败 API 数量：15
+- 成功 API 数量：66
+- 失败 API 数量：14
 - 平均可用率：81.4%
 - 完美可用率（100%）：52 个
 - 高可用率（80%-99%）：13 个
@@ -224,10 +224,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 2 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 35 | 65 | 35.0% | 0 |
-| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 22 | 78 | 22.0% | 78 |
-| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 22 | 78 | 22.0% | 78 |
+| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 21 | 79 | 21.0% | 79 |
+| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 21 | 79 | 21.0% | 79 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
