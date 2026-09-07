@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-07 13:33 CST）
+## API 状态（最近更新：2026-09-07 19:15 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：65
-- 失败 API 数量：15
+- 成功 API 数量：66
+- 失败 API 数量：14
 - 平均可用率：83.8%
 - 完美可用率（100%）：51 个
-- 高可用率（80%-99%）：15 个
-- 中等可用率（50%-79%）：2 个
+- 高可用率（80%-99%）：14 个
+- 中等可用率（50%-79%）：3 个
 - 低可用率（<50%）：12 个
 
 <div style="font-size: 11px;">
@@ -219,16 +219,16 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞-老色逼- | https://apilsbzy1.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞玉兔资源 | https://apiyutu.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬360 资源 | https://360zy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬-爱奇艺- | https://iqiyizyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| 🚨 | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 80 | 20 | 80.0% | 20 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 78 | 22 | 78.0% | 20 |
-| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 59 | 41 | 59.0% | 0 |
-| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 37 | 63 | 37.0% | 63 |
+| 🚨 | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 79 | 21 | 79.0% | 21 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 77 | 23 | 77.0% | 21 |
+| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 60 | 40 | 60.0% | 0 |
+| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 36 | 64 | 36.0% | 64 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
