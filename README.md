@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-10 20:35 CST）
+## API 状态（最近更新：2026-09-11 00:49 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：66
 - 失败 API 数量：14
 - 平均可用率：83.4%
 - 完美可用率（100%）：53 个
-- 高可用率（80%-99%）：12 个
-- 中等可用率（50%-79%）：3 个
+- 高可用率（80%-99%）：13 个
+- 中等可用率（50%-79%）：2 个
 - 低可用率（<50%）：12 个
 
 <div style="font-size: 11px;">
@@ -224,11 +224,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬360 资源 | https://360zy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
-| 🚨 | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 60 | 40 | 60.0% | 40 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 58 | 42 | 58.0% | 40 |
-| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 17 | 83 | 17.0% | 83 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
+| 🚨 | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 59 | 41 | 59.0% | 41 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 57 | 43 | 57.0% | 41 |
+| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 16 | 84 | 16.0% | 84 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
